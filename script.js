@@ -1,2 +1,2 @@
-// alert("Hello")
-console.log("Hey harry")
+alert("Hello, World!")
+console.log("Hey harry!")
